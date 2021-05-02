@@ -39,11 +39,6 @@ defmodule ChirpWeb.PostLive.PostComponent do
         </div>
       </div>
     </div>
-    <>
-    function carrega() {
-        window.location.reload();
-    }
-    </>
     """
   end
   # def handle_event("like", _, socket) do
